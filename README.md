@@ -1,6 +1,8 @@
 ## SpringBoot JPA Demo
 
-**16301070**  **梁洪铭**
+
+### 学号姓名
+16301070 梁洪铭
 
 ### JavaEE四次作业
 [第一次作业](https://github.com/PegasusLiang/EE_homework_1_JPA)
