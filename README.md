@@ -48,7 +48,7 @@ Kafka消息队列的应用
 
    
 
-   ![1560758914323](D:\A-University\3.5\笔记\typora-user-images\1560758914323.png)
+   ![1560758914323](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758914323.png)
 
 
 
@@ -56,7 +56,7 @@ Kafka消息队列的应用
 
 2. DAO层 repository接口
 
-   ![1560759042270](D:\A-University\3.5\笔记\typora-user-images\1560759042270.png)
+   ![1560759042270](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560759042270.png)
 
 
 
@@ -64,13 +64,13 @@ Kafka消息队列的应用
 
 3.  **GymHandler** 实现增删改查方法
 
-![1560759178152](D:\A-University\3.5\笔记\typora-user-images\1560759178152.png)
+![1560759178152](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560759178152.png)
 
 
 
 4. **MemberReadHistoryServiceImpl** 实现浏览记录的相关操作方法
 
-![1560759322637](D:\A-University\3.5\笔记\typora-user-images\1560759322637.png)
+![1560759322637](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560759322637.png)
 
 
 
@@ -86,13 +86,13 @@ GymWebFluxController将controller的服务改为RESTFUL形式，其中MemberRead
 
 Controller调用Handler实现的服务Service
 
-![1560759529422](D:\A-University\3.5\笔记\typora-user-images\1560759529422.png)
+![1560759529422](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560759529422.png)
 
 
 
 **MemberReadHistoryController**
 
-![1560759672663](D:\A-University\3.5\笔记\typora-user-images\1560759672663.png)
+![1560759672663](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560759672663.png)
 
 
 
@@ -102,13 +102,13 @@ Controller调用Handler实现的服务Service
 
  mongod --dbpath ../../MongoDBPath
 
-![1560758713779](D:\A-University\3.5\笔记\typora-user-images\1560758713779.png)
+![1560758713779](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758713779.png)
 
 再在另一个命令行打开mongo服务，
 
 mongo
 
-![1560758725477](D:\A-University\3.5\笔记\typora-user-images\1560758725477.png)
+![1560758725477](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758725477.png)
 
 
 
@@ -116,7 +116,7 @@ mongo
 
 运行SpringBoot
 
-![1560758786702](D:\A-University\3.5\笔记\typora-user-images\1560758786702.png)
+![1560758786702](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758786702.png)
 
 
 
@@ -124,7 +124,7 @@ mongo
 
 
 
-![1560758604941](D:\A-University\3.5\笔记\typora-user-images\1560758604941.png)
+![1560758604941](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758604941.png)
 
 
 
@@ -132,7 +132,7 @@ mongo
 
 
 
-![1560758432418](D:\A-University\3.5\笔记\typora-user-images\1560758432418.png)
+![1560758432418](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758432418.png)
 
 
 
@@ -142,4 +142,4 @@ submit后我们到MongoDB中查看结果。
 
 
 
-![1560758505297](D:\A-University\3.5\笔记\typora-user-images\1560758505297.png)
+![1560758505297](https://github.com/PegasusLiang/EE_homework_4/blob/master/%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE/1560758505297.png)
